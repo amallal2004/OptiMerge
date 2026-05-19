@@ -4,6 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![pdf-lib](https://img.shields.io/badge/pdf--lib-1.17.1-EE2C2C?style=for-the-badge&logo=pdf&logoColor=white)](https://pdf-lib.js.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-blue?style=for-the-badge&logo=github&logoColor=white)](https://amallal2004.github.io/OptiMerge/)
 
 **OptiMerge Studio** is a premium, client-side, zero-compression image-to-PDF compilation sandbox. Engineered with a "local-first" privacy model, it empowers users to arrange, inspect, rotate, and combine high-resolution images (JPEG, PNG, WebP) into pristine, structurally-sound PDF documents. **Not a single byte of your data ever leaves your browser.**
 
